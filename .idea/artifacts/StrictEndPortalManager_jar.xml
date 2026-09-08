@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StrictEndPortalManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StrictEndPortalManager_jar</output-path>
+    <root id="archive" name="StrictEndPortalManager.jar">
+      <element id="module-output" name="StrictEndPortalManager" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+name: StrictEndPortalManager
+version: '2.0'
+main: play.strictmc.ru.strictendportalmanager.StrictEndPortalManager
+api-version: '1.16'
+authors: [ StrictMC, parimek, Vstep ]
+description: Плагин на управление ендер порталами
+website: https://strictmc.ru/
